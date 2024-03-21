@@ -21,7 +21,7 @@ public class ScannnerEx {
 		
 		
 		
-		System.out.println("감사합니다!。!");
+		System.out.println("감사합니다!");
 		
 		scanner.close(); 
 		
