@@ -18,7 +18,9 @@ public class ScannnerEx {
 
 		boolean isSingle =scanner.next();
 		System.out.print("독신여부는" + isSingle + "입니다.");
-		System.out.println("감사합니다.");
+		
+		System.out.println("감사합니다!!");
+		
 		scanner.close(); 
 		
 }
