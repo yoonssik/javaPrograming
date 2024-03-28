@@ -8,7 +8,7 @@ public class ArithmeticOperator {
 		// TODO Auto-generated method stub
 		Scanner scanner = new Scanner (System.in);
 		
-		System.out.println("정수를 입력하시오:");
+		System.out.println("정수를 입력하시오: ");
 		int time = scanner.nextInt();
 		int second = time % 60;
 		int minute = (time/60) % 60;		
